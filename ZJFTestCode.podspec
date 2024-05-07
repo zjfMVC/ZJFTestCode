@@ -10,7 +10,7 @@ s.author                   = { "zhengjunfeng" => "542908082@qq.com" }
 s.swift_version            = "5.0"
 s.ios.deployment_target    = '11.0'
 
-s.source                   = { :path => 'https://github.com/zjfMVC/ZJFTestCode.git' }
+s.source                   = { :git => 'https://github.com/zjfMVC/ZJFTestCode.git' }
 s.source_files             = 'Classes/**/*.{swift,h,m}'
 s.resources                = 'Classes/**/*.{xcassets,json,storyboard,xib,xcdatamodeld}'
 
